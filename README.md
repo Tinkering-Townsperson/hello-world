@@ -2,6 +2,6 @@
 just another test
 
 ```js
-document.write
+document.write("hello, earthlings!")
 ```
 *__[download](stuff)__*
